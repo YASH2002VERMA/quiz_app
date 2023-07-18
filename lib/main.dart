@@ -15,4 +15,3 @@ void main() {
 // }
 
 
-// 27 video of flutter and dart 2 fandamental deep dive
